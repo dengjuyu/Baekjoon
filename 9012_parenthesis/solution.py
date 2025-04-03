@@ -1,6 +1,5 @@
 import sys
 
-
 def is_vps(string):
     stack = []
     for char in string:
